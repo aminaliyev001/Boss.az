@@ -1,0 +1,91 @@
+[
+    {
+        "Vacancies": [
+            {
+                "Occupation": "IT",
+                "School": "dunya",
+                "Skills": [
+                    "html",
+                    "css",
+                    "python"
+                ],
+                "Experiences": [
+                    {
+                        "Name": "Myfleet",
+                        "Started": "2022-10-10T00:00:00",
+                        "Ended": "2022-10-10T00:00:00"
+                    }
+                ],
+                "Languages": [
+                    {
+                        "Lang": "eng",
+                        "Level": 3
+                    }
+                ],
+                "HonorsDiplom": true,
+                "Gitlink": "https://github.com/aminaliyev001",
+                "Linkedin": "https://linkedin.com",
+                "Category": 0
+            },
+            {
+                "Occupation": "IT",
+                "School": "dunya",
+                "Skills": [
+                    "html",
+                    "css",
+                    "python"
+                ],
+                "Experiences": [
+                    {
+                        "Name": "Myfleet",
+                        "Started": "2022-10-10T00:00:00",
+                        "Ended": "2022-10-10T00:00:00"
+                    }
+                ],
+                "Languages": [
+                    {
+                        "Lang": "eng",
+                        "Level": 3
+                    }
+                ],
+                "HonorsDiplom": true,
+                "Gitlink": "https://github.com/aminaliyev001",
+                "Linkedin": "https://linkedin.com",
+                "Category": 0
+            }
+        ],
+        "posts": [
+            {
+                "JobTitle": "IT IS ELANI",
+                "Description": "dhouiashofdnjsa",
+                "Location": "ataturk ave 41",
+                "Salary": 2000,
+                "DatePosted": "2023-09-30T22:50:29.010129+04:00",
+                "Category": 2
+            }
+        ],
+        "CompanyName": "LEGEND",
+        "Id": "425988a3-8436-4c6e-bf7e-fccf15d5822a",
+        "Created": "2023-09-30T21:18:25.994542+04:00",
+        "Updated": "2023-09-30T22:50:52.404841+04:00",
+        "notifications": [
+            {
+                "Title": "Job request for IT IS ELANI",
+                "Text": "IT IS ELANI =\u003E Amin Aliyev sent their CV",
+                "Status": 1
+            },
+            {
+                "Title": "Job request for IT IS ELANI",
+                "Text": "IT IS ELANI =\u003E ID: 938cdbd4-1611-45d1-926d-0a4d8ef9f58a\nName: Amin\nSurname: Aliyev\nFather name: Elshen\nCity: Baku\nPhone: 994515111000\nAge: 18\nCrated date: 28-09-2023 17:45:17\nUpdated date: 30-09-2023 21:23:39\n",
+                "Status": 0
+            }
+        ],
+        "Name": "Elmin",
+        "Surname": "Ali",
+        "City": "baku",
+        "PhoneNumber": "994505005050",
+        "Age": 20,
+        "Email": "aminaliyev001@gmail.com",
+        "Password": "97,109,105,110,49,50,51,52"
+    }
+]

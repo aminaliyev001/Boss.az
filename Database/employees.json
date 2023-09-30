@@ -1,0 +1,42 @@
+[
+    {
+        "Fname": "Elshen",
+        "Gender": 0,
+        "cv": {
+            "Occupation": "IT",
+            "School": "dunya",
+            "Skills": [
+                "html",
+                "css",
+                "python"
+            ],
+            "Experiences": [
+                {
+                    "Name": "Myfleet",
+                    "Started": "2022-10-10T00:00:00",
+                    "Ended": "2022-10-10T00:00:00"
+                }
+            ],
+            "Languages": [
+                {
+                    "Lang": "eng",
+                    "Level": 3
+                }
+            ],
+            "HonorsDiplom": true,
+            "Gitlink": "https://github.com/aminaliyev001",
+            "Linkedin": "https://linkedin.com",
+            "Category": 0
+        },
+        "Id": "5dcb9e4e-69b5-401a-b150-c71322503ac1",
+        "Created": "2023-09-28T17:45:17.648636+04:00",
+        "Updated": "2023-09-30T21:23:39.937035+04:00",
+        "Name": "Amin",
+        "Surname": "Aliyev",
+        "City": "Baku",
+        "PhoneNumber": "994515111000",
+        "Age": 18,
+        "Email": "tonyd.gustavo@gmail.com",
+        "Password": "97,109,105,110,49,50,51,52"
+    }
+]

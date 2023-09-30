@@ -1,0 +1,15 @@
+employee sign in:
+email: tonyd.gustavo@gmail.com
+pass: amin1234
+
+employer sign in:
+email: aminaliyev001@gmail.com
+pass: amin1234
+
+Elave olaraq: ozumnen hashing ve unhashing functioni add elemisem passwordun tehlukesliyi ucun.
+ve Password yazilanda gorsenmir
+
+Sign Upda emaile sms gedir verification ucun
+Loglama aparilir
+Elave olaraq aboutus sectionda yaradmisam
+
